@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+matplotlib
+jupyter
+kagglehub
+joblib

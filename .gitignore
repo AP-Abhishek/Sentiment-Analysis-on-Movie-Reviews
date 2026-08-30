@@ -1,1 +1,15 @@
-dataset
+# Dataset & Model Artifacts
+dataset/
+models/
+*.pkl
+*.joblib
+
+# Python Virtual Environments & Cache
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
